@@ -5,3 +5,6 @@ settings.py
 env/
 .DS_Store
 __pycache__/
+clarifai.com.txt
+123.jpg
+124.jpg
